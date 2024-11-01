@@ -1,0 +1,5282 @@
+<DATA>
+
+	<ROW>
+		<id>1</id>
+		<temperatura>25.08</temperatura>
+		<pressao>93449.91</pressao>
+		<altitude>732.43</altitude>
+		<umidade>69.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-28 22:00:55</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>2</id>
+		<temperatura>25.06</temperatura>
+		<pressao>93445.77</pressao>
+		<altitude>732.80</altitude>
+		<umidade>69.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-28 22:01:26</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>3</id>
+		<temperatura>25.04</temperatura>
+		<pressao>93446.50</pressao>
+		<altitude>732.73</altitude>
+		<umidade>69.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-28 22:01:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>4</id>
+		<temperatura>25.02</temperatura>
+		<pressao>93447.09</pressao>
+		<altitude>732.68</altitude>
+		<umidade>69.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-28 22:02:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>5</id>
+		<temperatura>25.02</temperatura>
+		<pressao>93447.46</pressao>
+		<altitude>732.65</altitude>
+		<umidade>69.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-28 22:02:58</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>6</id>
+		<temperatura>25.02</temperatura>
+		<pressao>93446.95</pressao>
+		<altitude>732.69</altitude>
+		<umidade>70.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-28 22:03:28</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>7</id>
+		<temperatura>25.03</temperatura>
+		<pressao>93444.86</pressao>
+		<altitude>732.88</altitude>
+		<umidade>70.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-28 22:03:59</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>8</id>
+		<temperatura>25.01</temperatura>
+		<pressao>93448.36</pressao>
+		<altitude>732.57</altitude>
+		<umidade>70.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-28 22:04:30</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>9</id>
+		<temperatura>25.00</temperatura>
+		<pressao>93448.38</pressao>
+		<altitude>732.57</altitude>
+		<umidade>70.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-28 22:05:00</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>10</id>
+		<temperatura>25.00</temperatura>
+		<pressao>93449.06</pressao>
+		<altitude>732.51</altitude>
+		<umidade>70.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-28 22:05:31</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>11</id>
+		<temperatura>24.95</temperatura>
+		<pressao>93445.38</pressao>
+		<altitude>732.83</altitude>
+		<umidade>70.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-28 22:09:05</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>12</id>
+		<temperatura>24.95</temperatura>
+		<pressao>93447.02</pressao>
+		<altitude>732.69</altitude>
+		<umidade>70.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-28 22:09:36</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>13</id>
+		<temperatura>24.94</temperatura>
+		<pressao>93443.77</pressao>
+		<altitude>732.97</altitude>
+		<umidade>70.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-28 22:10:06</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>14</id>
+		<temperatura>25.44</temperatura>
+		<pressao>93205.68</pressao>
+		<altitude>754.14</altitude>
+		<umidade>64.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:50:38</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>15</id>
+		<temperatura>25.44</temperatura>
+		<pressao>93205.68</pressao>
+		<altitude>754.14</altitude>
+		<umidade>64.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:50:38</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>16</id>
+		<temperatura>25.34</temperatura>
+		<pressao>93205.59</pressao>
+		<altitude>754.14</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:51:08</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>17</id>
+		<temperatura>25.34</temperatura>
+		<pressao>93205.59</pressao>
+		<altitude>754.14</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:51:08</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>18</id>
+		<temperatura>25.14</temperatura>
+		<pressao>93203.83</pressao>
+		<altitude>754.30</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:51:38</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>19</id>
+		<temperatura>25.14</temperatura>
+		<pressao>93203.83</pressao>
+		<altitude>754.30</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:51:38</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>20</id>
+		<temperatura>25.02</temperatura>
+		<pressao>93202.91</pressao>
+		<altitude>754.38</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:52:08</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>21</id>
+		<temperatura>25.02</temperatura>
+		<pressao>93202.91</pressao>
+		<altitude>754.38</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:52:08</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>22</id>
+		<temperatura>24.88</temperatura>
+		<pressao>93206.86</pressao>
+		<altitude>754.03</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:52:38</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>23</id>
+		<temperatura>24.88</temperatura>
+		<pressao>93206.86</pressao>
+		<altitude>754.03</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:52:38</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>24</id>
+		<temperatura>24.91</temperatura>
+		<pressao>93208.45</pressao>
+		<altitude>753.89</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:53:08</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>25</id>
+		<temperatura>24.91</temperatura>
+		<pressao>93208.45</pressao>
+		<altitude>753.89</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:53:08</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>26</id>
+		<temperatura>24.69</temperatura>
+		<pressao>93208.19</pressao>
+		<altitude>753.91</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:53:38</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>27</id>
+		<temperatura>24.69</temperatura>
+		<pressao>93208.19</pressao>
+		<altitude>753.91</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:53:38</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>28</id>
+		<temperatura>24.71</temperatura>
+		<pressao>93209.02</pressao>
+		<altitude>753.84</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:54:08</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>29</id>
+		<temperatura>24.71</temperatura>
+		<pressao>93209.02</pressao>
+		<altitude>753.84</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:54:08</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>30</id>
+		<temperatura>24.73</temperatura>
+		<pressao>93208.86</pressao>
+		<altitude>753.85</altitude>
+		<umidade>66.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:54:38</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>31</id>
+		<temperatura>24.73</temperatura>
+		<pressao>93208.86</pressao>
+		<altitude>753.85</altitude>
+		<umidade>66.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:54:38</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>32</id>
+		<temperatura>24.63</temperatura>
+		<pressao>93206.58</pressao>
+		<altitude>754.06</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:55:08</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>33</id>
+		<temperatura>24.63</temperatura>
+		<pressao>93206.58</pressao>
+		<altitude>754.06</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:55:08</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>34</id>
+		<temperatura>24.57</temperatura>
+		<pressao>93209.67</pressao>
+		<altitude>753.78</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:55:38</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>35</id>
+		<temperatura>24.57</temperatura>
+		<pressao>93209.67</pressao>
+		<altitude>753.78</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:55:38</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>36</id>
+		<temperatura>24.54</temperatura>
+		<pressao>93204.66</pressao>
+		<altitude>754.23</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:56:08</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>37</id>
+		<temperatura>24.54</temperatura>
+		<pressao>93204.66</pressao>
+		<altitude>754.23</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:56:08</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>38</id>
+		<temperatura>24.31</temperatura>
+		<pressao>93208.53</pressao>
+		<altitude>753.88</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:56:38</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>39</id>
+		<temperatura>24.31</temperatura>
+		<pressao>93208.53</pressao>
+		<altitude>753.88</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:56:38</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>40</id>
+		<temperatura>24.33</temperatura>
+		<pressao>93207.19</pressao>
+		<altitude>754.00</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:57:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>41</id>
+		<temperatura>24.33</temperatura>
+		<pressao>93207.19</pressao>
+		<altitude>754.00</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:57:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>42</id>
+		<temperatura>24.21</temperatura>
+		<pressao>93206.88</pressao>
+		<altitude>754.03</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:57:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>43</id>
+		<temperatura>24.21</temperatura>
+		<pressao>93206.88</pressao>
+		<altitude>754.03</altitude>
+		<umidade>65.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:57:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>44</id>
+		<temperatura>24.05</temperatura>
+		<pressao>93208.56</pressao>
+		<altitude>753.88</altitude>
+		<umidade>64.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:58:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>45</id>
+		<temperatura>24.05</temperatura>
+		<pressao>93208.56</pressao>
+		<altitude>753.88</altitude>
+		<umidade>64.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:58:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>46</id>
+		<temperatura>24.08</temperatura>
+		<pressao>93212.06</pressao>
+		<altitude>753.57</altitude>
+		<umidade>64.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:58:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>47</id>
+		<temperatura>24.08</temperatura>
+		<pressao>93212.06</pressao>
+		<altitude>753.57</altitude>
+		<umidade>64.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:58:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>48</id>
+		<temperatura>24.12</temperatura>
+		<pressao>93208.42</pressao>
+		<altitude>753.89</altitude>
+		<umidade>64.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:59:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>49</id>
+		<temperatura>24.12</temperatura>
+		<pressao>93208.42</pressao>
+		<altitude>753.89</altitude>
+		<umidade>64.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:59:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>50</id>
+		<temperatura>23.94</temperatura>
+		<pressao>93213.88</pressao>
+		<altitude>753.41</altitude>
+		<umidade>64.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:59:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>51</id>
+		<temperatura>23.94</temperatura>
+		<pressao>93213.88</pressao>
+		<altitude>753.41</altitude>
+		<umidade>64.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 18:59:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>52</id>
+		<temperatura>24.01</temperatura>
+		<pressao>93203.15</pressao>
+		<altitude>754.36</altitude>
+		<umidade>64.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:00:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>53</id>
+		<temperatura>24.01</temperatura>
+		<pressao>93203.15</pressao>
+		<altitude>754.36</altitude>
+		<umidade>64.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:00:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>54</id>
+		<temperatura>24.03</temperatura>
+		<pressao>93204.41</pressao>
+		<altitude>754.37</altitude>
+		<umidade>64.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:00:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>55</id>
+		<temperatura>24.03</temperatura>
+		<pressao>93204.41</pressao>
+		<altitude>754.37</altitude>
+		<umidade>64.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:00:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>56</id>
+		<temperatura>24.04</temperatura>
+		<pressao>93203.20</pressao>
+		<altitude>754.36</altitude>
+		<umidade>64.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:01:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>57</id>
+		<temperatura>24.04</temperatura>
+		<pressao>93203.20</pressao>
+		<altitude>754.36</altitude>
+		<umidade>64.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:01:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>58</id>
+		<temperatura>23.97</temperatura>
+		<pressao>93206.88</pressao>
+		<altitude>754.03</altitude>
+		<umidade>63.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:01:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>59</id>
+		<temperatura>23.97</temperatura>
+		<pressao>93206.88</pressao>
+		<altitude>754.03</altitude>
+		<umidade>63.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:01:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>60</id>
+		<temperatura>23.78</temperatura>
+		<pressao>93207.27</pressao>
+		<altitude>754.00</altitude>
+		<umidade>63.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:02:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>61</id>
+		<temperatura>23.78</temperatura>
+		<pressao>93207.27</pressao>
+		<altitude>754.00</altitude>
+		<umidade>63.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:02:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>62</id>
+		<temperatura>23.73</temperatura>
+		<pressao>93208.98</pressao>
+		<altitude>753.84</altitude>
+		<umidade>63.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:02:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>63</id>
+		<temperatura>23.73</temperatura>
+		<pressao>93208.98</pressao>
+		<altitude>753.84</altitude>
+		<umidade>63.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:02:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>64</id>
+		<temperatura>23.75</temperatura>
+		<pressao>93210.52</pressao>
+		<altitude>753.71</altitude>
+		<umidade>63.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:03:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>65</id>
+		<temperatura>23.75</temperatura>
+		<pressao>93210.52</pressao>
+		<altitude>753.71</altitude>
+		<umidade>63.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:03:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>66</id>
+		<temperatura>23.81</temperatura>
+		<pressao>93210.62</pressao>
+		<altitude>753.70</altitude>
+		<umidade>63.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:03:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>67</id>
+		<temperatura>23.81</temperatura>
+		<pressao>93210.62</pressao>
+		<altitude>753.70</altitude>
+		<umidade>63.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:03:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>68</id>
+		<temperatura>23.75</temperatura>
+		<pressao>93214.30</pressao>
+		<altitude>753.37</altitude>
+		<umidade>63.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:04:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>69</id>
+		<temperatura>23.75</temperatura>
+		<pressao>93214.30</pressao>
+		<altitude>753.37</altitude>
+		<umidade>63.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:04:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>70</id>
+		<temperatura>23.70</temperatura>
+		<pressao>93211.66</pressao>
+		<altitude>753.60</altitude>
+		<umidade>62.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:04:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>71</id>
+		<temperatura>23.70</temperatura>
+		<pressao>93211.66</pressao>
+		<altitude>753.60</altitude>
+		<umidade>62.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:04:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>72</id>
+		<temperatura>23.64</temperatura>
+		<pressao>93211.72</pressao>
+		<altitude>753.60</altitude>
+		<umidade>62.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:05:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>73</id>
+		<temperatura>23.64</temperatura>
+		<pressao>93211.72</pressao>
+		<altitude>753.60</altitude>
+		<umidade>62.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:05:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>74</id>
+		<temperatura>23.55</temperatura>
+		<pressao>93212.10</pressao>
+		<altitude>753.56</altitude>
+		<umidade>62.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:05:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>75</id>
+		<temperatura>23.55</temperatura>
+		<pressao>93212.10</pressao>
+		<altitude>753.56</altitude>
+		<umidade>62.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:05:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>76</id>
+		<temperatura>23.71</temperatura>
+		<pressao>93218.20</pressao>
+		<altitude>753.02</altitude>
+		<umidade>62.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:06:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>77</id>
+		<temperatura>23.71</temperatura>
+		<pressao>93218.20</pressao>
+		<altitude>753.02</altitude>
+		<umidade>62.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:06:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>78</id>
+		<temperatura>23.58</temperatura>
+		<pressao>93217.05</pressao>
+		<altitude>753.12</altitude>
+		<umidade>62.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:06:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>79</id>
+		<temperatura>23.58</temperatura>
+		<pressao>93217.05</pressao>
+		<altitude>753.12</altitude>
+		<umidade>62.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:06:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>80</id>
+		<temperatura>23.56</temperatura>
+		<pressao>93214.28</pressao>
+		<altitude>753.37</altitude>
+		<umidade>61.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:07:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>81</id>
+		<temperatura>23.56</temperatura>
+		<pressao>93214.28</pressao>
+		<altitude>753.37</altitude>
+		<umidade>61.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:07:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>82</id>
+		<temperatura>23.58</temperatura>
+		<pressao>93218.58</pressao>
+		<altitude>752.99</altitude>
+		<umidade>61.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:07:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>83</id>
+		<temperatura>23.58</temperatura>
+		<pressao>93218.58</pressao>
+		<altitude>752.99</altitude>
+		<umidade>61.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:07:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>84</id>
+		<temperatura>23.54</temperatura>
+		<pressao>93215.48</pressao>
+		<altitude>753.26</altitude>
+		<umidade>61.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:08:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>85</id>
+		<temperatura>23.54</temperatura>
+		<pressao>93215.48</pressao>
+		<altitude>753.26</altitude>
+		<umidade>61.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:08:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>86</id>
+		<temperatura>23.54</temperatura>
+		<pressao>93216.06</pressao>
+		<altitude>753.21</altitude>
+		<umidade>61.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:08:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>87</id>
+		<temperatura>23.54</temperatura>
+		<pressao>93216.06</pressao>
+		<altitude>753.21</altitude>
+		<umidade>61.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:08:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>88</id>
+		<temperatura>23.54</temperatura>
+		<pressao>93222.34</pressao>
+		<altitude>752.65</altitude>
+		<umidade>61.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:09:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>89</id>
+		<temperatura>23.54</temperatura>
+		<pressao>93222.34</pressao>
+		<altitude>752.65</altitude>
+		<umidade>61.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:09:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>90</id>
+		<temperatura>23.50</temperatura>
+		<pressao>93217.91</pressao>
+		<altitude>753.05</altitude>
+		<umidade>61.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:09:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>91</id>
+		<temperatura>23.50</temperatura>
+		<pressao>93217.91</pressao>
+		<altitude>753.05</altitude>
+		<umidade>61.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:09:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>92</id>
+		<temperatura>23.45</temperatura>
+		<pressao>93219.58</pressao>
+		<altitude>752.87</altitude>
+		<umidade>60.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:10:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>93</id>
+		<temperatura>23.45</temperatura>
+		<pressao>93219.58</pressao>
+		<altitude>752.87</altitude>
+		<umidade>60.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:10:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>94</id>
+		<temperatura>23.43</temperatura>
+		<pressao>93222.25</pressao>
+		<altitude>752.66</altitude>
+		<umidade>60.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:10:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>95</id>
+		<temperatura>23.43</temperatura>
+		<pressao>93222.25</pressao>
+		<altitude>752.66</altitude>
+		<umidade>60.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:10:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>96</id>
+		<temperatura>23.45</temperatura>
+		<pressao>93221.38</pressao>
+		<altitude>752.74</altitude>
+		<umidade>60.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:11:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>97</id>
+		<temperatura>23.45</temperatura>
+		<pressao>93221.38</pressao>
+		<altitude>752.74</altitude>
+		<umidade>60.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:11:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>98</id>
+		<temperatura>23.30</temperatura>
+		<pressao>93218.11</pressao>
+		<altitude>753.03</altitude>
+		<umidade>60.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:11:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>99</id>
+		<temperatura>23.30</temperatura>
+		<pressao>93218.11</pressao>
+		<altitude>753.03</altitude>
+		<umidade>60.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:11:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>100</id>
+		<temperatura>23.47</temperatura>
+		<pressao>93220.08</pressao>
+		<altitude>752.86</altitude>
+		<umidade>60.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:12:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>101</id>
+		<temperatura>23.47</temperatura>
+		<pressao>93220.08</pressao>
+		<altitude>752.86</altitude>
+		<umidade>60.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:12:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>102</id>
+		<temperatura>23.38</temperatura>
+		<pressao>93217.55</pressao>
+		<altitude>753.08</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:12:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>103</id>
+		<temperatura>23.38</temperatura>
+		<pressao>93217.55</pressao>
+		<altitude>753.08</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:12:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>104</id>
+		<temperatura>23.38</temperatura>
+		<pressao>93217.22</pressao>
+		<altitude>753.11</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:13:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>105</id>
+		<temperatura>23.38</temperatura>
+		<pressao>93217.22</pressao>
+		<altitude>753.11</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:13:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>106</id>
+		<temperatura>23.34</temperatura>
+		<pressao>93213.44</pressao>
+		<altitude>753.45</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:13:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>107</id>
+		<temperatura>23.34</temperatura>
+		<pressao>93213.44</pressao>
+		<altitude>753.45</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:13:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>108</id>
+		<temperatura>23.26</temperatura>
+		<pressao>93217.19</pressao>
+		<altitude>753.11</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:14:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>109</id>
+		<temperatura>23.26</temperatura>
+		<pressao>93217.19</pressao>
+		<altitude>753.11</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:14:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>110</id>
+		<temperatura>23.33</temperatura>
+		<pressao>93221.52</pressao>
+		<altitude>752.73</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:14:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>111</id>
+		<temperatura>23.33</temperatura>
+		<pressao>93221.52</pressao>
+		<altitude>752.73</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:14:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>112</id>
+		<temperatura>23.16</temperatura>
+		<pressao>93218.25</pressao>
+		<altitude>753.02</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:15:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>113</id>
+		<temperatura>23.16</temperatura>
+		<pressao>93218.25</pressao>
+		<altitude>753.02</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:15:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>114</id>
+		<temperatura>23.24</temperatura>
+		<pressao>93221.88</pressao>
+		<altitude>752.70</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:15:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>115</id>
+		<temperatura>23.24</temperatura>
+		<pressao>93221.88</pressao>
+		<altitude>752.70</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:15:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>116</id>
+		<temperatura>23.18</temperatura>
+		<pressao>93219.88</pressao>
+		<altitude>752.87</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:16:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>117</id>
+		<temperatura>23.18</temperatura>
+		<pressao>93219.88</pressao>
+		<altitude>752.87</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:16:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>118</id>
+		<temperatura>23.23</temperatura>
+		<pressao>93220.52</pressao>
+		<altitude>752.82</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:16:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>119</id>
+		<temperatura>23.23</temperatura>
+		<pressao>93220.52</pressao>
+		<altitude>752.82</altitude>
+		<umidade>59.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:16:39</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>120</id>
+		<temperatura>23.19</temperatura>
+		<pressao>93219.64</pressao>
+		<altitude>752.89</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:17:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>121</id>
+		<temperatura>23.19</temperatura>
+		<pressao>93219.64</pressao>
+		<altitude>752.89</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:17:09</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>122</id>
+		<temperatura>22.95</temperatura>
+		<pressao>93223.29</pressao>
+		<altitude>752.57</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:18:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>123</id>
+		<temperatura>22.95</temperatura>
+		<pressao>93223.29</pressao>
+		<altitude>752.57</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:18:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>124</id>
+		<temperatura>22.88</temperatura>
+		<pressao>93223.36</pressao>
+		<altitude>752.56</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:18:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>125</id>
+		<temperatura>22.88</temperatura>
+		<pressao>93223.36</pressao>
+		<altitude>752.56</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:18:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>126</id>
+		<temperatura>22.86</temperatura>
+		<pressao>93223.81</pressao>
+		<altitude>752.52</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:19:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>127</id>
+		<temperatura>22.86</temperatura>
+		<pressao>93223.81</pressao>
+		<altitude>752.52</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:19:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>128</id>
+		<temperatura>22.83</temperatura>
+		<pressao>93223.61</pressao>
+		<altitude>752.54</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:19:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>129</id>
+		<temperatura>22.83</temperatura>
+		<pressao>93223.61</pressao>
+		<altitude>752.54</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:19:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>130</id>
+		<temperatura>22.91</temperatura>
+		<pressao>93223.58</pressao>
+		<altitude>752.54</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:20:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>131</id>
+		<temperatura>22.91</temperatura>
+		<pressao>93223.58</pressao>
+		<altitude>752.54</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:20:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>132</id>
+		<temperatura>22.85</temperatura>
+		<pressao>93226.84</pressao>
+		<altitude>752.25</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:20:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>133</id>
+		<temperatura>22.85</temperatura>
+		<pressao>93226.84</pressao>
+		<altitude>752.25</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:20:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>134</id>
+		<temperatura>22.80</temperatura>
+		<pressao>93227.88</pressao>
+		<altitude>752.16</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:21:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>135</id>
+		<temperatura>22.80</temperatura>
+		<pressao>93227.88</pressao>
+		<altitude>752.16</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:21:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>136</id>
+		<temperatura>22.89</temperatura>
+		<pressao>93225.12</pressao>
+		<altitude>752.41</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:21:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>137</id>
+		<temperatura>22.89</temperatura>
+		<pressao>93225.12</pressao>
+		<altitude>752.41</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:21:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>138</id>
+		<temperatura>22.86</temperatura>
+		<pressao>93223.34</pressao>
+		<altitude>752.56</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:22:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>139</id>
+		<temperatura>22.86</temperatura>
+		<pressao>93223.34</pressao>
+		<altitude>752.56</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:22:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>140</id>
+		<temperatura>22.80</temperatura>
+		<pressao>93227.58</pressao>
+		<altitude>752.19</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:22:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>141</id>
+		<temperatura>22.80</temperatura>
+		<pressao>93227.58</pressao>
+		<altitude>752.19</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:22:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>142</id>
+		<temperatura>22.69</temperatura>
+		<pressao>93229.66</pressao>
+		<altitude>752.00</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:23:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>143</id>
+		<temperatura>22.69</temperatura>
+		<pressao>93229.66</pressao>
+		<altitude>752.00</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:23:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>144</id>
+		<temperatura>22.72</temperatura>
+		<pressao>93224.39</pressao>
+		<altitude>752.54</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:23:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>145</id>
+		<temperatura>22.72</temperatura>
+		<pressao>93224.39</pressao>
+		<altitude>752.54</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:23:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>146</id>
+		<temperatura>22.78</temperatura>
+		<pressao>93226.06</pressao>
+		<altitude>752.32</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:24:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>147</id>
+		<temperatura>22.78</temperatura>
+		<pressao>93226.06</pressao>
+		<altitude>752.32</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:24:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>148</id>
+		<temperatura>22.77</temperatura>
+		<pressao>93229.42</pressao>
+		<altitude>752.02</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:24:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>149</id>
+		<temperatura>22.77</temperatura>
+		<pressao>93229.42</pressao>
+		<altitude>752.02</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:24:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>150</id>
+		<temperatura>22.75</temperatura>
+		<pressao>93227.41</pressao>
+		<altitude>752.20</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:25:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>151</id>
+		<temperatura>22.75</temperatura>
+		<pressao>93227.41</pressao>
+		<altitude>752.20</altitude>
+		<umidade>58.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:25:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>152</id>
+		<temperatura>22.70</temperatura>
+		<pressao>93224.57</pressao>
+		<altitude>752.46</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:25:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>153</id>
+		<temperatura>22.70</temperatura>
+		<pressao>93224.57</pressao>
+		<altitude>752.46</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:25:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>154</id>
+		<temperatura>22.74</temperatura>
+		<pressao>93228.99</pressao>
+		<altitude>752.06</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:26:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>155</id>
+		<temperatura>22.74</temperatura>
+		<pressao>93228.99</pressao>
+		<altitude>752.06</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:26:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>156</id>
+		<temperatura>22.60</temperatura>
+		<pressao>93230.55</pressao>
+		<altitude>751.92</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:26:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>157</id>
+		<temperatura>22.60</temperatura>
+		<pressao>93230.55</pressao>
+		<altitude>751.92</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:26:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>158</id>
+		<temperatura>22.58</temperatura>
+		<pressao>93230.70</pressao>
+		<altitude>751.84</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:27:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>159</id>
+		<temperatura>22.58</temperatura>
+		<pressao>93230.70</pressao>
+		<altitude>751.84</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:27:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>160</id>
+		<temperatura>22.63</temperatura>
+		<pressao>93233.56</pressao>
+		<altitude>751.66</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:27:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>161</id>
+		<temperatura>22.63</temperatura>
+		<pressao>93233.56</pressao>
+		<altitude>751.66</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:27:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>162</id>
+		<temperatura>22.66</temperatura>
+		<pressao>93232.06</pressao>
+		<altitude>751.79</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:28:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>163</id>
+		<temperatura>22.66</temperatura>
+		<pressao>93232.06</pressao>
+		<altitude>751.79</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:28:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>164</id>
+		<temperatura>22.71</temperatura>
+		<pressao>93230.84</pressao>
+		<altitude>751.90</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:28:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>165</id>
+		<temperatura>22.71</temperatura>
+		<pressao>93230.84</pressao>
+		<altitude>751.90</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:28:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>166</id>
+		<temperatura>22.75</temperatura>
+		<pressao>93228.41</pressao>
+		<altitude>752.11</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:29:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>167</id>
+		<temperatura>22.75</temperatura>
+		<pressao>93228.41</pressao>
+		<altitude>752.11</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:29:10</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>168</id>
+		<temperatura>22.59</temperatura>
+		<pressao>93228.13</pressao>
+		<altitude>752.14</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:29:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>169</id>
+		<temperatura>22.59</temperatura>
+		<pressao>93228.13</pressao>
+		<altitude>752.14</altitude>
+		<umidade>57.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:29:40</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>170</id>
+		<temperatura>22.61</temperatura>
+		<pressao>93228.47</pressao>
+		<altitude>752.11</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:30:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>171</id>
+		<temperatura>22.61</temperatura>
+		<pressao>93228.47</pressao>
+		<altitude>752.11</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:30:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>172</id>
+		<temperatura>22.69</temperatura>
+		<pressao>93226.11</pressao>
+		<altitude>752.32</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:30:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>173</id>
+		<temperatura>22.69</temperatura>
+		<pressao>93226.11</pressao>
+		<altitude>752.32</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:30:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>174</id>
+		<temperatura>22.59</temperatura>
+		<pressao>93226.03</pressao>
+		<altitude>752.33</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:31:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>175</id>
+		<temperatura>22.59</temperatura>
+		<pressao>93226.03</pressao>
+		<altitude>752.33</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:31:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>176</id>
+		<temperatura>22.58</temperatura>
+		<pressao>93226.13</pressao>
+		<altitude>752.32</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:31:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>177</id>
+		<temperatura>22.58</temperatura>
+		<pressao>93226.13</pressao>
+		<altitude>752.32</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:31:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>178</id>
+		<temperatura>22.69</temperatura>
+		<pressao>93227.53</pressao>
+		<altitude>752.19</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:32:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>179</id>
+		<temperatura>22.69</temperatura>
+		<pressao>93227.53</pressao>
+		<altitude>752.19</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:32:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>180</id>
+		<temperatura>22.65</temperatura>
+		<pressao>93231.12</pressao>
+		<altitude>751.87</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:32:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>181</id>
+		<temperatura>22.65</temperatura>
+		<pressao>93231.12</pressao>
+		<altitude>751.87</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:32:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>182</id>
+		<temperatura>22.59</temperatura>
+		<pressao>93231.78</pressao>
+		<altitude>751.81</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:33:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>183</id>
+		<temperatura>22.59</temperatura>
+		<pressao>93231.78</pressao>
+		<altitude>751.81</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:33:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>184</id>
+		<temperatura>22.60</temperatura>
+		<pressao>93231.20</pressao>
+		<altitude>751.87</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:33:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>185</id>
+		<temperatura>22.60</temperatura>
+		<pressao>93231.20</pressao>
+		<altitude>751.87</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:33:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>186</id>
+		<temperatura>22.52</temperatura>
+		<pressao>93233.29</pressao>
+		<altitude>751.68</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:34:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>187</id>
+		<temperatura>22.52</temperatura>
+		<pressao>93233.29</pressao>
+		<altitude>751.68</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:34:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>188</id>
+		<temperatura>22.61</temperatura>
+		<pressao>93237.16</pressao>
+		<altitude>751.34</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:34:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>189</id>
+		<temperatura>22.61</temperatura>
+		<pressao>93237.16</pressao>
+		<altitude>751.34</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:34:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>190</id>
+		<temperatura>22.55</temperatura>
+		<pressao>93236.81</pressao>
+		<altitude>751.37</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:35:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>191</id>
+		<temperatura>22.49</temperatura>
+		<pressao>93238.85</pressao>
+		<altitude>751.19</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:35:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>192</id>
+		<temperatura>22.49</temperatura>
+		<pressao>93238.85</pressao>
+		<altitude>751.19</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:35:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>193</id>
+		<temperatura>22.55</temperatura>
+		<pressao>93238.61</pressao>
+		<altitude>751.21</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:36:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>194</id>
+		<temperatura>22.55</temperatura>
+		<pressao>93238.61</pressao>
+		<altitude>751.21</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:36:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>195</id>
+		<temperatura>22.38</temperatura>
+		<pressao>93233.64</pressao>
+		<altitude>751.65</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:36:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>196</id>
+		<temperatura>22.38</temperatura>
+		<pressao>93233.64</pressao>
+		<altitude>751.65</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:36:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>197</id>
+		<temperatura>22.41</temperatura>
+		<pressao>93235.20</pressao>
+		<altitude>751.51</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:37:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>198</id>
+		<temperatura>22.41</temperatura>
+		<pressao>93235.20</pressao>
+		<altitude>751.51</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:37:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>199</id>
+		<temperatura>22.47</temperatura>
+		<pressao>93230.87</pressao>
+		<altitude>751.90</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:37:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>200</id>
+		<temperatura>22.47</temperatura>
+		<pressao>93230.87</pressao>
+		<altitude>751.90</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:37:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>201</id>
+		<temperatura>22.41</temperatura>
+		<pressao>93235.06</pressao>
+		<altitude>751.52</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:38:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>202</id>
+		<temperatura>22.41</temperatura>
+		<pressao>93235.06</pressao>
+		<altitude>751.52</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:38:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>203</id>
+		<temperatura>22.37</temperatura>
+		<pressao>93234.22</pressao>
+		<altitude>751.60</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:38:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>204</id>
+		<temperatura>22.37</temperatura>
+		<pressao>93234.22</pressao>
+		<altitude>751.60</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:38:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>205</id>
+		<temperatura>22.50</temperatura>
+		<pressao>93236.36</pressao>
+		<altitude>751.41</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:39:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>206</id>
+		<temperatura>22.50</temperatura>
+		<pressao>93236.36</pressao>
+		<altitude>751.41</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:39:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>207</id>
+		<temperatura>22.51</temperatura>
+		<pressao>93233.81</pressao>
+		<altitude>751.63</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:39:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>208</id>
+		<temperatura>22.51</temperatura>
+		<pressao>93233.81</pressao>
+		<altitude>751.63</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:39:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>209</id>
+		<temperatura>22.40</temperatura>
+		<pressao>93238.23</pressao>
+		<altitude>751.24</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:40:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>210</id>
+		<temperatura>22.40</temperatura>
+		<pressao>93238.23</pressao>
+		<altitude>751.24</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:40:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>211</id>
+		<temperatura>22.44</temperatura>
+		<pressao>93236.32</pressao>
+		<altitude>751.41</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:40:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>212</id>
+		<temperatura>22.44</temperatura>
+		<pressao>93236.32</pressao>
+		<altitude>751.41</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:40:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>213</id>
+		<temperatura>22.42</temperatura>
+		<pressao>93234.51</pressao>
+		<altitude>751.57</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:41:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>214</id>
+		<temperatura>22.42</temperatura>
+		<pressao>93234.51</pressao>
+		<altitude>751.57</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:41:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>215</id>
+		<temperatura>22.27</temperatura>
+		<pressao>93235.48</pressao>
+		<altitude>751.48</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:41:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>216</id>
+		<temperatura>22.27</temperatura>
+		<pressao>93235.48</pressao>
+		<altitude>751.48</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:41:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>217</id>
+		<temperatura>22.32</temperatura>
+		<pressao>93237.01</pressao>
+		<altitude>751.35</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:42:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>218</id>
+		<temperatura>22.32</temperatura>
+		<pressao>93237.01</pressao>
+		<altitude>751.35</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:42:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>219</id>
+		<temperatura>22.23</temperatura>
+		<pressao>93237.42</pressao>
+		<altitude>751.31</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:42:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>220</id>
+		<temperatura>22.23</temperatura>
+		<pressao>93237.42</pressao>
+		<altitude>751.31</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:42:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>221</id>
+		<temperatura>22.24</temperatura>
+		<pressao>93238.09</pressao>
+		<altitude>751.25</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:43:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>222</id>
+		<temperatura>22.24</temperatura>
+		<pressao>93238.09</pressao>
+		<altitude>751.25</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:43:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>223</id>
+		<temperatura>22.30</temperatura>
+		<pressao>93238.00</pressao>
+		<altitude>751.26</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:43:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>224</id>
+		<temperatura>22.30</temperatura>
+		<pressao>93238.00</pressao>
+		<altitude>751.26</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:43:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>225</id>
+		<temperatura>22.25</temperatura>
+		<pressao>93241.50</pressao>
+		<altitude>750.95</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:44:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>226</id>
+		<temperatura>22.25</temperatura>
+		<pressao>93241.50</pressao>
+		<altitude>750.95</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:44:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>227</id>
+		<temperatura>22.25</temperatura>
+		<pressao>93241.45</pressao>
+		<altitude>750.95</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:44:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>228</id>
+		<temperatura>22.25</temperatura>
+		<pressao>93241.45</pressao>
+		<altitude>750.95</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:44:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>229</id>
+		<temperatura>22.23</temperatura>
+		<pressao>93245.85</pressao>
+		<altitude>750.56</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:45:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>230</id>
+		<temperatura>22.23</temperatura>
+		<pressao>93245.85</pressao>
+		<altitude>750.56</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:45:11</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>231</id>
+		<temperatura>22.28</temperatura>
+		<pressao>93240.74</pressao>
+		<altitude>751.02</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:45:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>232</id>
+		<temperatura>22.28</temperatura>
+		<pressao>93240.74</pressao>
+		<altitude>751.02</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:45:41</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>233</id>
+		<temperatura>22.26</temperatura>
+		<pressao>93245.50</pressao>
+		<altitude>750.59</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:46:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>234</id>
+		<temperatura>22.26</temperatura>
+		<pressao>93245.50</pressao>
+		<altitude>750.59</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:46:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>235</id>
+		<temperatura>22.25</temperatura>
+		<pressao>93246.05</pressao>
+		<altitude>750.55</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:46:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>236</id>
+		<temperatura>22.25</temperatura>
+		<pressao>93246.05</pressao>
+		<altitude>750.55</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:46:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>237</id>
+		<temperatura>22.15</temperatura>
+		<pressao>93245.65</pressao>
+		<altitude>750.58</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:47:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>238</id>
+		<temperatura>22.15</temperatura>
+		<pressao>93245.65</pressao>
+		<altitude>750.58</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:47:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>239</id>
+		<temperatura>22.14</temperatura>
+		<pressao>93248.14</pressao>
+		<altitude>750.36</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:47:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>240</id>
+		<temperatura>22.14</temperatura>
+		<pressao>93248.14</pressao>
+		<altitude>750.36</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:47:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>241</id>
+		<temperatura>22.12</temperatura>
+		<pressao>93249.78</pressao>
+		<altitude>750.21</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:48:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>242</id>
+		<temperatura>22.12</temperatura>
+		<pressao>93249.78</pressao>
+		<altitude>750.21</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:48:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>243</id>
+		<temperatura>22.11</temperatura>
+		<pressao>93249.38</pressao>
+		<altitude>750.25</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:48:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>244</id>
+		<temperatura>22.11</temperatura>
+		<pressao>93249.38</pressao>
+		<altitude>750.25</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:48:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>245</id>
+		<temperatura>22.15</temperatura>
+		<pressao>93252.86</pressao>
+		<altitude>749.94</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:49:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>246</id>
+		<temperatura>22.15</temperatura>
+		<pressao>93252.86</pressao>
+		<altitude>749.94</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:49:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>247</id>
+		<temperatura>22.12</temperatura>
+		<pressao>93251.75</pressao>
+		<altitude>750.04</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:49:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>248</id>
+		<temperatura>22.12</temperatura>
+		<pressao>93251.75</pressao>
+		<altitude>750.04</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:49:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>249</id>
+		<temperatura>22.09</temperatura>
+		<pressao>93254.30</pressao>
+		<altitude>749.81</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:50:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>250</id>
+		<temperatura>22.09</temperatura>
+		<pressao>93254.30</pressao>
+		<altitude>749.81</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:50:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>251</id>
+		<temperatura>22.03</temperatura>
+		<pressao>93250.66</pressao>
+		<altitude>750.14</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:50:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>252</id>
+		<temperatura>22.03</temperatura>
+		<pressao>93250.66</pressao>
+		<altitude>750.14</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:50:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>253</id>
+		<temperatura>22.11</temperatura>
+		<pressao>93254.41</pressao>
+		<altitude>749.80</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:51:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>254</id>
+		<temperatura>22.11</temperatura>
+		<pressao>93254.41</pressao>
+		<altitude>749.80</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:51:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>255</id>
+		<temperatura>22.04</temperatura>
+		<pressao>93255.42</pressao>
+		<altitude>749.71</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:51:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>256</id>
+		<temperatura>22.04</temperatura>
+		<pressao>93255.42</pressao>
+		<altitude>749.71</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:51:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>257</id>
+		<temperatura>22.07</temperatura>
+		<pressao>93259.77</pressao>
+		<altitude>749.33</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:52:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>258</id>
+		<temperatura>22.07</temperatura>
+		<pressao>93259.77</pressao>
+		<altitude>749.33</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:52:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>259</id>
+		<temperatura>22.04</temperatura>
+		<pressao>93257.39</pressao>
+		<altitude>749.54</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:52:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>260</id>
+		<temperatura>22.04</temperatura>
+		<pressao>93257.39</pressao>
+		<altitude>749.54</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:52:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>261</id>
+		<temperatura>22.04</temperatura>
+		<pressao>93259.05</pressao>
+		<altitude>749.39</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:53:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>262</id>
+		<temperatura>22.04</temperatura>
+		<pressao>93259.05</pressao>
+		<altitude>749.39</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:53:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>263</id>
+		<temperatura>22.01</temperatura>
+		<pressao>93259.09</pressao>
+		<altitude>749.39</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:53:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>264</id>
+		<temperatura>22.01</temperatura>
+		<pressao>93259.09</pressao>
+		<altitude>749.39</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:53:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>265</id>
+		<temperatura>21.93</temperatura>
+		<pressao>93256.11</pressao>
+		<altitude>749.65</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:54:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>266</id>
+		<temperatura>21.93</temperatura>
+		<pressao>93256.11</pressao>
+		<altitude>749.65</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:54:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>267</id>
+		<temperatura>22.08</temperatura>
+		<pressao>93257.64</pressao>
+		<altitude>749.51</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:54:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>268</id>
+		<temperatura>22.08</temperatura>
+		<pressao>93257.64</pressao>
+		<altitude>749.51</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:54:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>269</id>
+		<temperatura>22.03</temperatura>
+		<pressao>93257.66</pressao>
+		<altitude>749.51</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:55:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>270</id>
+		<temperatura>22.03</temperatura>
+		<pressao>93257.66</pressao>
+		<altitude>749.51</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:55:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>271</id>
+		<temperatura>22.00</temperatura>
+		<pressao>93260.33</pressao>
+		<altitude>749.28</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:55:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>272</id>
+		<temperatura>22.00</temperatura>
+		<pressao>93260.33</pressao>
+		<altitude>749.28</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:55:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>273</id>
+		<temperatura>21.85</temperatura>
+		<pressao>93263.20</pressao>
+		<altitude>749.02</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:56:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>274</id>
+		<temperatura>21.85</temperatura>
+		<pressao>93263.20</pressao>
+		<altitude>749.02</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:56:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>275</id>
+		<temperatura>21.89</temperatura>
+		<pressao>93265.06</pressao>
+		<altitude>748.85</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:56:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>276</id>
+		<temperatura>21.89</temperatura>
+		<pressao>93265.06</pressao>
+		<altitude>748.85</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:56:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>277</id>
+		<temperatura>21.90</temperatura>
+		<pressao>93269.27</pressao>
+		<altitude>748.48</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:57:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>278</id>
+		<temperatura>21.90</temperatura>
+		<pressao>93269.27</pressao>
+		<altitude>748.48</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:57:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>279</id>
+		<temperatura>21.85</temperatura>
+		<pressao>93267.30</pressao>
+		<altitude>748.66</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:57:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>280</id>
+		<temperatura>21.85</temperatura>
+		<pressao>93267.30</pressao>
+		<altitude>748.66</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:57:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>281</id>
+		<temperatura>21.87</temperatura>
+		<pressao>93269.39</pressao>
+		<altitude>748.47</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:58:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>282</id>
+		<temperatura>21.87</temperatura>
+		<pressao>93269.39</pressao>
+		<altitude>748.47</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:58:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>283</id>
+		<temperatura>21.93</temperatura>
+		<pressao>93270.45</pressao>
+		<altitude>748.38</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:58:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>284</id>
+		<temperatura>21.93</temperatura>
+		<pressao>93270.45</pressao>
+		<altitude>748.38</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:58:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>285</id>
+		<temperatura>21.90</temperatura>
+		<pressao>93268.94</pressao>
+		<altitude>748.51</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:59:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>286</id>
+		<temperatura>21.90</temperatura>
+		<pressao>93268.94</pressao>
+		<altitude>748.51</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:59:12</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>287</id>
+		<temperatura>21.71</temperatura>
+		<pressao>93270.38</pressao>
+		<altitude>748.38</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:59:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>288</id>
+		<temperatura>21.71</temperatura>
+		<pressao>93270.38</pressao>
+		<altitude>748.38</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 19:59:42</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>289</id>
+		<temperatura>21.73</temperatura>
+		<pressao>93270.26</pressao>
+		<altitude>748.39</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:00:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>290</id>
+		<temperatura>21.73</temperatura>
+		<pressao>93270.26</pressao>
+		<altitude>748.39</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:00:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>291</id>
+		<temperatura>21.85</temperatura>
+		<pressao>93270.40</pressao>
+		<altitude>748.38</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:00:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>292</id>
+		<temperatura>21.85</temperatura>
+		<pressao>93270.40</pressao>
+		<altitude>748.38</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:00:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>293</id>
+		<temperatura>21.83</temperatura>
+		<pressao>93271.02</pressao>
+		<altitude>748.32</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:01:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>294</id>
+		<temperatura>21.83</temperatura>
+		<pressao>93271.02</pressao>
+		<altitude>748.32</altitude>
+		<umidade>52.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:01:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>295</id>
+		<temperatura>21.90</temperatura>
+		<pressao>93272.95</pressao>
+		<altitude>748.15</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:01:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>296</id>
+		<temperatura>21.90</temperatura>
+		<pressao>93272.95</pressao>
+		<altitude>748.15</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:01:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>297</id>
+		<temperatura>21.80</temperatura>
+		<pressao>93274.81</pressao>
+		<altitude>747.99</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:02:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>298</id>
+		<temperatura>21.80</temperatura>
+		<pressao>93274.81</pressao>
+		<altitude>747.99</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:02:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>299</id>
+		<temperatura>21.78</temperatura>
+		<pressao>93269.59</pressao>
+		<altitude>748.45</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:02:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>300</id>
+		<temperatura>21.78</temperatura>
+		<pressao>93269.59</pressao>
+		<altitude>748.45</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:02:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>301</id>
+		<temperatura>21.73</temperatura>
+		<pressao>93275.00</pressao>
+		<altitude>747.97</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:03:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>302</id>
+		<temperatura>21.73</temperatura>
+		<pressao>93275.00</pressao>
+		<altitude>747.97</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:03:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>303</id>
+		<temperatura>21.73</temperatura>
+		<pressao>93272.52</pressao>
+		<altitude>748.19</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:03:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>304</id>
+		<temperatura>21.73</temperatura>
+		<pressao>93272.52</pressao>
+		<altitude>748.19</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:03:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>305</id>
+		<temperatura>21.71</temperatura>
+		<pressao>93275.64</pressao>
+		<altitude>747.91</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:04:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>306</id>
+		<temperatura>21.71</temperatura>
+		<pressao>93275.64</pressao>
+		<altitude>747.91</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:04:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>307</id>
+		<temperatura>21.73</temperatura>
+		<pressao>93276.62</pressao>
+		<altitude>747.83</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:04:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>308</id>
+		<temperatura>21.73</temperatura>
+		<pressao>93276.62</pressao>
+		<altitude>747.83</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:04:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>309</id>
+		<temperatura>21.76</temperatura>
+		<pressao>93276.05</pressao>
+		<altitude>747.88</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:05:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>310</id>
+		<temperatura>21.76</temperatura>
+		<pressao>93276.05</pressao>
+		<altitude>747.88</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:05:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>311</id>
+		<temperatura>21.80</temperatura>
+		<pressao>93275.36</pressao>
+		<altitude>747.94</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:05:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>312</id>
+		<temperatura>21.80</temperatura>
+		<pressao>93275.36</pressao>
+		<altitude>747.94</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:05:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>313</id>
+		<temperatura>21.72</temperatura>
+		<pressao>93272.50</pressao>
+		<altitude>748.19</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:06:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>314</id>
+		<temperatura>21.72</temperatura>
+		<pressao>93272.50</pressao>
+		<altitude>748.19</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:06:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>315</id>
+		<temperatura>21.74</temperatura>
+		<pressao>93269.66</pressao>
+		<altitude>748.45</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:06:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>316</id>
+		<temperatura>21.74</temperatura>
+		<pressao>93269.66</pressao>
+		<altitude>748.45</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:06:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>317</id>
+		<temperatura>21.73</temperatura>
+		<pressao>93269.75</pressao>
+		<altitude>748.44</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:07:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>318</id>
+		<temperatura>21.73</temperatura>
+		<pressao>93269.75</pressao>
+		<altitude>748.44</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:07:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>319</id>
+		<temperatura>21.58</temperatura>
+		<pressao>93272.30</pressao>
+		<altitude>748.21</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:07:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>320</id>
+		<temperatura>21.58</temperatura>
+		<pressao>93272.30</pressao>
+		<altitude>748.21</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:07:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>321</id>
+		<temperatura>21.62</temperatura>
+		<pressao>93269.53</pressao>
+		<altitude>748.46</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:08:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>322</id>
+		<temperatura>21.62</temperatura>
+		<pressao>93269.53</pressao>
+		<altitude>748.46</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:08:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>323</id>
+		<temperatura>21.70</temperatura>
+		<pressao>93267.69</pressao>
+		<altitude>748.62</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:08:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>324</id>
+		<temperatura>21.70</temperatura>
+		<pressao>93267.69</pressao>
+		<altitude>748.62</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:08:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>325</id>
+		<temperatura>21.68</temperatura>
+		<pressao>93266.14</pressao>
+		<altitude>748.76</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:09:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>326</id>
+		<temperatura>21.68</temperatura>
+		<pressao>93266.14</pressao>
+		<altitude>748.76</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:09:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>327</id>
+		<temperatura>21.75</temperatura>
+		<pressao>93267.31</pressao>
+		<altitude>748.65</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:09:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>328</id>
+		<temperatura>21.75</temperatura>
+		<pressao>93267.31</pressao>
+		<altitude>748.65</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:09:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>329</id>
+		<temperatura>21.75</temperatura>
+		<pressao>93259.48</pressao>
+		<altitude>749.35</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:10:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>330</id>
+		<temperatura>21.75</temperatura>
+		<pressao>93259.48</pressao>
+		<altitude>749.35</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:10:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>331</id>
+		<temperatura>21.67</temperatura>
+		<pressao>93262.84</pressao>
+		<altitude>749.05</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:10:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>332</id>
+		<temperatura>21.67</temperatura>
+		<pressao>93262.84</pressao>
+		<altitude>749.05</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:10:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>333</id>
+		<temperatura>21.76</temperatura>
+		<pressao>93263.16</pressao>
+		<altitude>749.02</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:11:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>334</id>
+		<temperatura>21.76</temperatura>
+		<pressao>93263.16</pressao>
+		<altitude>749.02</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:11:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>335</id>
+		<temperatura>21.74</temperatura>
+		<pressao>93263.61</pressao>
+		<altitude>748.98</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:11:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>336</id>
+		<temperatura>21.74</temperatura>
+		<pressao>93263.61</pressao>
+		<altitude>748.98</altitude>
+		<umidade>51.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:11:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>337</id>
+		<temperatura>21.68</temperatura>
+		<pressao>93260.77</pressao>
+		<altitude>749.24</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:12:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>338</id>
+		<temperatura>21.68</temperatura>
+		<pressao>93260.77</pressao>
+		<altitude>749.24</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:12:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>339</id>
+		<temperatura>21.71</temperatura>
+		<pressao>93260.21</pressao>
+		<altitude>749.29</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:12:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>340</id>
+		<temperatura>21.71</temperatura>
+		<pressao>93260.21</pressao>
+		<altitude>749.29</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:12:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>341</id>
+		<temperatura>21.65</temperatura>
+		<pressao>93261.19</pressao>
+		<altitude>749.20</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:13:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>342</id>
+		<temperatura>21.65</temperatura>
+		<pressao>93261.19</pressao>
+		<altitude>749.20</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:13:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>343</id>
+		<temperatura>21.64</temperatura>
+		<pressao>93260.56</pressao>
+		<altitude>749.25</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:13:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>344</id>
+		<temperatura>21.64</temperatura>
+		<pressao>93260.56</pressao>
+		<altitude>749.25</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:13:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>345</id>
+		<temperatura>21.65</temperatura>
+		<pressao>93259.91</pressao>
+		<altitude>749.31</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:14:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>346</id>
+		<temperatura>21.65</temperatura>
+		<pressao>93259.91</pressao>
+		<altitude>749.31</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:14:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>347</id>
+		<temperatura>21.65</temperatura>
+		<pressao>93263.80</pressao>
+		<altitude>748.97</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:14:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>348</id>
+		<temperatura>21.65</temperatura>
+		<pressao>93263.80</pressao>
+		<altitude>748.97</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:14:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>349</id>
+		<temperatura>21.63</temperatura>
+		<pressao>93264.30</pressao>
+		<altitude>748.92</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:15:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>350</id>
+		<temperatura>21.63</temperatura>
+		<pressao>93264.30</pressao>
+		<altitude>748.92</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:15:16</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>351</id>
+		<temperatura>21.58</temperatura>
+		<pressao>93262.84</pressao>
+		<altitude>749.05</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:15:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>352</id>
+		<temperatura>21.58</temperatura>
+		<pressao>93262.84</pressao>
+		<altitude>749.05</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:15:46</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>353</id>
+		<temperatura>21.57</temperatura>
+		<pressao>93264.08</pressao>
+		<altitude>748.94</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:16:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>354</id>
+		<temperatura>21.57</temperatura>
+		<pressao>93264.08</pressao>
+		<altitude>748.94</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:16:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>355</id>
+		<temperatura>21.53</temperatura>
+		<pressao>93267.42</pressao>
+		<altitude>748.65</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:16:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>356</id>
+		<temperatura>21.53</temperatura>
+		<pressao>93267.42</pressao>
+		<altitude>748.65</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:16:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>357</id>
+		<temperatura>21.57</temperatura>
+		<pressao>93266.80</pressao>
+		<altitude>748.70</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:17:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>358</id>
+		<temperatura>21.57</temperatura>
+		<pressao>93266.80</pressao>
+		<altitude>748.70</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:17:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>359</id>
+		<temperatura>21.47</temperatura>
+		<pressao>93267.46</pressao>
+		<altitude>748.64</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:17:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>360</id>
+		<temperatura>21.47</temperatura>
+		<pressao>93267.46</pressao>
+		<altitude>748.64</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:17:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>361</id>
+		<temperatura>21.52</temperatura>
+		<pressao>93267.17</pressao>
+		<altitude>748.67</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:18:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>362</id>
+		<temperatura>21.52</temperatura>
+		<pressao>93267.17</pressao>
+		<altitude>748.67</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:18:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>363</id>
+		<temperatura>21.54</temperatura>
+		<pressao>93266.02</pressao>
+		<altitude>748.77</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:18:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>364</id>
+		<temperatura>21.54</temperatura>
+		<pressao>93266.02</pressao>
+		<altitude>748.77</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:18:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>365</id>
+		<temperatura>21.59</temperatura>
+		<pressao>93267.31</pressao>
+		<altitude>748.65</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:19:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>366</id>
+		<temperatura>21.59</temperatura>
+		<pressao>93267.31</pressao>
+		<altitude>748.65</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:19:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>367</id>
+		<temperatura>21.55</temperatura>
+		<pressao>93264.63</pressao>
+		<altitude>748.89</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:19:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>368</id>
+		<temperatura>21.55</temperatura>
+		<pressao>93264.63</pressao>
+		<altitude>748.89</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:19:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>369</id>
+		<temperatura>21.41</temperatura>
+		<pressao>93268.23</pressao>
+		<altitude>748.57</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:20:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>370</id>
+		<temperatura>21.41</temperatura>
+		<pressao>93268.23</pressao>
+		<altitude>748.57</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:20:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>371</id>
+		<temperatura>21.39</temperatura>
+		<pressao>93268.36</pressao>
+		<altitude>748.56</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:20:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>372</id>
+		<temperatura>21.39</temperatura>
+		<pressao>93268.36</pressao>
+		<altitude>748.56</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:20:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>373</id>
+		<temperatura>21.50</temperatura>
+		<pressao>93264.48</pressao>
+		<altitude>748.91</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:21:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>374</id>
+		<temperatura>21.50</temperatura>
+		<pressao>93264.48</pressao>
+		<altitude>748.91</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:21:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>375</id>
+		<temperatura>21.48</temperatura>
+		<pressao>93264.13</pressao>
+		<altitude>748.94</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:21:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>376</id>
+		<temperatura>21.48</temperatura>
+		<pressao>93264.13</pressao>
+		<altitude>748.94</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:21:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>377</id>
+		<temperatura>21.52</temperatura>
+		<pressao>93264.50</pressao>
+		<altitude>748.90</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:22:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>378</id>
+		<temperatura>21.52</temperatura>
+		<pressao>93264.50</pressao>
+		<altitude>748.90</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:22:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>379</id>
+		<temperatura>21.42</temperatura>
+		<pressao>93268.84</pressao>
+		<altitude>748.52</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:22:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>380</id>
+		<temperatura>21.42</temperatura>
+		<pressao>93268.84</pressao>
+		<altitude>748.52</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:22:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>381</id>
+		<temperatura>21.47</temperatura>
+		<pressao>93270.97</pressao>
+		<altitude>748.33</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:23:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>382</id>
+		<temperatura>21.47</temperatura>
+		<pressao>93270.97</pressao>
+		<altitude>748.33</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:23:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>383</id>
+		<temperatura>21.46</temperatura>
+		<pressao>93268.52</pressao>
+		<altitude>748.55</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:23:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>384</id>
+		<temperatura>21.46</temperatura>
+		<pressao>93268.52</pressao>
+		<altitude>748.55</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:23:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>385</id>
+		<temperatura>21.36</temperatura>
+		<pressao>93268.42</pressao>
+		<altitude>748.56</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:24:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>386</id>
+		<temperatura>21.36</temperatura>
+		<pressao>93268.42</pressao>
+		<altitude>748.56</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:24:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>387</id>
+		<temperatura>21.36</temperatura>
+		<pressao>93267.79</pressao>
+		<altitude>748.61</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:24:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>388</id>
+		<temperatura>21.36</temperatura>
+		<pressao>93267.79</pressao>
+		<altitude>748.61</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:24:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>389</id>
+		<temperatura>21.41</temperatura>
+		<pressao>93266.91</pressao>
+		<altitude>748.69</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:25:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>390</id>
+		<temperatura>21.41</temperatura>
+		<pressao>93266.91</pressao>
+		<altitude>748.69</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:25:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>391</id>
+		<temperatura>21.33</temperatura>
+		<pressao>93268.61</pressao>
+		<altitude>748.54</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:25:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>392</id>
+		<temperatura>21.33</temperatura>
+		<pressao>93268.61</pressao>
+		<altitude>748.54</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:25:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>393</id>
+		<temperatura>21.36</temperatura>
+		<pressao>93268.42</pressao>
+		<altitude>748.56</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:26:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>394</id>
+		<temperatura>21.36</temperatura>
+		<pressao>93268.42</pressao>
+		<altitude>748.56</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:26:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>395</id>
+		<temperatura>21.30</temperatura>
+		<pressao>93267.99</pressao>
+		<altitude>748.59</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:26:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>396</id>
+		<temperatura>21.30</temperatura>
+		<pressao>93267.99</pressao>
+		<altitude>748.59</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:26:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>397</id>
+		<temperatura>21.36</temperatura>
+		<pressao>93267.27</pressao>
+		<altitude>748.66</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:27:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>398</id>
+		<temperatura>21.36</temperatura>
+		<pressao>93267.27</pressao>
+		<altitude>748.66</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:27:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>399</id>
+		<temperatura>21.40</temperatura>
+		<pressao>93269.98</pressao>
+		<altitude>748.42</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:27:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>400</id>
+		<temperatura>21.40</temperatura>
+		<pressao>93269.98</pressao>
+		<altitude>748.42</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:27:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>401</id>
+		<temperatura>21.38</temperatura>
+		<pressao>93268.41</pressao>
+		<altitude>748.56</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:28:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>402</id>
+		<temperatura>21.38</temperatura>
+		<pressao>93268.41</pressao>
+		<altitude>748.56</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:28:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>403</id>
+		<temperatura>21.37</temperatura>
+		<pressao>93265.44</pressao>
+		<altitude>748.82</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:28:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>404</id>
+		<temperatura>21.37</temperatura>
+		<pressao>93265.44</pressao>
+		<altitude>748.82</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:28:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>405</id>
+		<temperatura>21.37</temperatura>
+		<pressao>93267.22</pressao>
+		<altitude>748.66</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:29:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>406</id>
+		<temperatura>21.37</temperatura>
+		<pressao>93267.22</pressao>
+		<altitude>748.66</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:29:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>407</id>
+		<temperatura>21.39</temperatura>
+		<pressao>93266.77</pressao>
+		<altitude>748.70</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:29:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>408</id>
+		<temperatura>21.39</temperatura>
+		<pressao>93266.77</pressao>
+		<altitude>748.70</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:29:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>409</id>
+		<temperatura>21.37</temperatura>
+		<pressao>93270.34</pressao>
+		<altitude>748.38</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:30:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>410</id>
+		<temperatura>21.37</temperatura>
+		<pressao>93270.34</pressao>
+		<altitude>748.38</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:30:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>411</id>
+		<temperatura>21.39</temperatura>
+		<pressao>93271.63</pressao>
+		<altitude>748.27</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:30:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>412</id>
+		<temperatura>21.39</temperatura>
+		<pressao>93271.63</pressao>
+		<altitude>748.27</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:30:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>413</id>
+		<temperatura>21.43</temperatura>
+		<pressao>93272.05</pressao>
+		<altitude>748.23</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:31:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>414</id>
+		<temperatura>21.43</temperatura>
+		<pressao>93272.05</pressao>
+		<altitude>748.23</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:31:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>415</id>
+		<temperatura>21.39</temperatura>
+		<pressao>93270.78</pressao>
+		<altitude>748.35</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:31:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>416</id>
+		<temperatura>21.39</temperatura>
+		<pressao>93270.78</pressao>
+		<altitude>748.35</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:31:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>417</id>
+		<temperatura>21.32</temperatura>
+		<pressao>93272.78</pressao>
+		<altitude>748.17</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:32:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>418</id>
+		<temperatura>21.32</temperatura>
+		<pressao>93272.78</pressao>
+		<altitude>748.17</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:32:17</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>419</id>
+		<temperatura>21.34</temperatura>
+		<pressao>93277.05</pressao>
+		<altitude>747.79</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:32:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>420</id>
+		<temperatura>21.34</temperatura>
+		<pressao>93277.05</pressao>
+		<altitude>747.79</altitude>
+		<umidade>50.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-29 20:32:47</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>421</id>
+		<temperatura>23.23</temperatura>
+		<pressao>93287.20</pressao>
+		<altitude>746.89</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:14:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>422</id>
+		<temperatura>23.23</temperatura>
+		<pressao>93287.20</pressao>
+		<altitude>746.89</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:14:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>423</id>
+		<temperatura>23.34</temperatura>
+		<pressao>93285.52</pressao>
+		<altitude>747.04</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:15:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>424</id>
+		<temperatura>23.34</temperatura>
+		<pressao>93285.52</pressao>
+		<altitude>747.04</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:15:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>425</id>
+		<temperatura>23.42</temperatura>
+		<pressao>93289.53</pressao>
+		<altitude>746.68</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:15:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>426</id>
+		<temperatura>23.42</temperatura>
+		<pressao>93289.53</pressao>
+		<altitude>746.68</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:15:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>427</id>
+		<temperatura>23.52</temperatura>
+		<pressao>93287.72</pressao>
+		<altitude>746.84</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:16:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>428</id>
+		<temperatura>23.52</temperatura>
+		<pressao>93287.72</pressao>
+		<altitude>746.84</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:16:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>429</id>
+		<temperatura>23.58</temperatura>
+		<pressao>93293.50</pressao>
+		<altitude>746.33</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:16:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>430</id>
+		<temperatura>23.58</temperatura>
+		<pressao>93293.50</pressao>
+		<altitude>746.33</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:16:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>431</id>
+		<temperatura>23.66</temperatura>
+		<pressao>93291.75</pressao>
+		<altitude>746.48</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:17:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>432</id>
+		<temperatura>23.66</temperatura>
+		<pressao>93291.75</pressao>
+		<altitude>746.48</altitude>
+		<umidade>56.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:17:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>433</id>
+		<temperatura>23.73</temperatura>
+		<pressao>93294.05</pressao>
+		<altitude>746.28</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:17:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>434</id>
+		<temperatura>23.73</temperatura>
+		<pressao>93294.05</pressao>
+		<altitude>746.28</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:17:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>435</id>
+		<temperatura>23.79</temperatura>
+		<pressao>93293.70</pressao>
+		<altitude>746.31</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:18:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>436</id>
+		<temperatura>23.79</temperatura>
+		<pressao>93293.70</pressao>
+		<altitude>746.31</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:18:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>437</id>
+		<temperatura>23.84</temperatura>
+		<pressao>93296.11</pressao>
+		<altitude>746.09</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:18:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>438</id>
+		<temperatura>23.84</temperatura>
+		<pressao>93296.11</pressao>
+		<altitude>746.09</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:18:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>439</id>
+		<temperatura>23.89</temperatura>
+		<pressao>93300.13</pressao>
+		<altitude>745.74</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:19:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>440</id>
+		<temperatura>23.89</temperatura>
+		<pressao>93300.13</pressao>
+		<altitude>745.74</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:19:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>441</id>
+		<temperatura>23.94</temperatura>
+		<pressao>93303.33</pressao>
+		<altitude>745.45</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:19:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>442</id>
+		<temperatura>23.94</temperatura>
+		<pressao>93303.33</pressao>
+		<altitude>745.45</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:19:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>443</id>
+		<temperatura>23.96</temperatura>
+		<pressao>93304.20</pressao>
+		<altitude>745.37</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:20:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>444</id>
+		<temperatura>23.96</temperatura>
+		<pressao>93304.20</pressao>
+		<altitude>745.37</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:20:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>445</id>
+		<temperatura>24.04</temperatura>
+		<pressao>93306.19</pressao>
+		<altitude>745.20</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:20:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>446</id>
+		<temperatura>24.07</temperatura>
+		<pressao>93307.36</pressao>
+		<altitude>745.09</altitude>
+		<umidade>55.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:21:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>447</id>
+		<temperatura>24.10</temperatura>
+		<pressao>93307.67</pressao>
+		<altitude>745.07</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:21:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>448</id>
+		<temperatura>24.14</temperatura>
+		<pressao>93310.56</pressao>
+		<altitude>744.81</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:22:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>449</id>
+		<temperatura>24.16</temperatura>
+		<pressao>93304.32</pressao>
+		<altitude>745.36</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:22:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>450</id>
+		<temperatura>24.19</temperatura>
+		<pressao>93308.86</pressao>
+		<altitude>744.96</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:23:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>451</id>
+		<temperatura>24.22</temperatura>
+		<pressao>93312.91</pressao>
+		<altitude>744.60</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:23:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>452</id>
+		<temperatura>24.21</temperatura>
+		<pressao>93310.99</pressao>
+		<altitude>744.77</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:24:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>453</id>
+		<temperatura>24.25</temperatura>
+		<pressao>93317.31</pressao>
+		<altitude>744.21</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:24:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>454</id>
+		<temperatura>24.31</temperatura>
+		<pressao>93311.07</pressao>
+		<altitude>744.76</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:25:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>455</id>
+		<temperatura>24.33</temperatura>
+		<pressao>93311.54</pressao>
+		<altitude>744.72</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:25:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>456</id>
+		<temperatura>24.35</temperatura>
+		<pressao>93316.63</pressao>
+		<altitude>744.27</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:26:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>457</id>
+		<temperatura>24.38</temperatura>
+		<pressao>93313.26</pressao>
+		<altitude>744.57</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:26:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>458</id>
+		<temperatura>24.41</temperatura>
+		<pressao>93318.00</pressao>
+		<altitude>744.15</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:27:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>459</id>
+		<temperatura>24.44</temperatura>
+		<pressao>93318.68</pressao>
+		<altitude>744.09</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:27:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>460</id>
+		<temperatura>24.38</temperatura>
+		<pressao>93316.35</pressao>
+		<altitude>744.29</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:28:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>461</id>
+		<temperatura>24.43</temperatura>
+		<pressao>93317.45</pressao>
+		<altitude>744.20</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:28:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>462</id>
+		<temperatura>24.45</temperatura>
+		<pressao>93318.16</pressao>
+		<altitude>744.13</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:29:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>463</id>
+		<temperatura>24.48</temperatura>
+		<pressao>93318.05</pressao>
+		<altitude>744.14</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:29:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>464</id>
+		<temperatura>24.50</temperatura>
+		<pressao>93317.39</pressao>
+		<altitude>744.20</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:30:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>465</id>
+		<temperatura>24.52</temperatura>
+		<pressao>93318.89</pressao>
+		<altitude>744.07</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:30:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>466</id>
+		<temperatura>24.57</temperatura>
+		<pressao>93317.81</pressao>
+		<altitude>744.16</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:31:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>467</id>
+		<temperatura>24.57</temperatura>
+		<pressao>93317.63</pressao>
+		<altitude>744.18</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:31:58</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>468</id>
+		<temperatura>24.56</temperatura>
+		<pressao>93319.52</pressao>
+		<altitude>744.01</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:32:28</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>469</id>
+		<temperatura>24.59</temperatura>
+		<pressao>93319.41</pressao>
+		<altitude>744.02</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:32:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>470</id>
+		<temperatura>24.62</temperatura>
+		<pressao>93325.55</pressao>
+		<altitude>743.48</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:33:27</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>471</id>
+		<temperatura>24.62</temperatura>
+		<pressao>93321.66</pressao>
+		<altitude>743.82</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:33:57</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>472</id>
+		<temperatura>24.64</temperatura>
+		<pressao>93324.27</pressao>
+		<altitude>743.62</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:34:28</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>473</id>
+		<temperatura>24.65</temperatura>
+		<pressao>93327.02</pressao>
+		<altitude>743.35</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:34:58</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>474</id>
+		<temperatura>24.67</temperatura>
+		<pressao>93330.77</pressao>
+		<altitude>743.01</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:35:29</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>475</id>
+		<temperatura>24.69</temperatura>
+		<pressao>93327.86</pressao>
+		<altitude>743.27</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:35:59</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>476</id>
+		<temperatura>24.69</temperatura>
+		<pressao>93332.77</pressao>
+		<altitude>742.84</altitude>
+		<umidade>53.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:36:29</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>477</id>
+		<temperatura>24.70</temperatura>
+		<pressao>93332.03</pressao>
+		<altitude>742.90</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:36:59</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>478</id>
+		<temperatura>24.70</temperatura>
+		<pressao>93333.54</pressao>
+		<altitude>742.77</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:37:29</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>479</id>
+		<temperatura>24.72</temperatura>
+		<pressao>93333.35</pressao>
+		<altitude>742.78</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:37:58</tempo_registro>
+	</ROW>
+
+	<ROW>
+		<id>480</id>
+		<temperatura>24.74</temperatura>
+		<pressao>93331.52</pressao>
+		<altitude>742.95</altitude>
+		<umidade>54.00</umidade>
+		<co2>NULL</co2>
+		<poeira>0.00</poeira>
+		<tempo_registro>2024-10-31 21:38:28</tempo_registro>
+	</ROW>
+</DATA>
